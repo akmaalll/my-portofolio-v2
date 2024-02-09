@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Akmal Rayadil Fitrah',
+  siteTitle: 'Akmal Rayadil Fitrah | Personal Portofolio',
   siteDescription:
     'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Makassar, Indonesia',
   email: 'akmalrayadilfitrah@gmail.com',
   github: 'https://github.com/akmaalll',
-  twitterHandle: '@chandrikadeb7',
+  twitterHandle: '@akmlrydlftrh',
   socialMedia: [
     {
       name: 'GitHub',
